@@ -1,8 +1,5 @@
-# React + Vite
+# Github Actions Workflows CI/CD with Azure
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I created this super simple vite-react application to practice setting up CD processes to deploy applications on Azure.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Here is the link to the website hosted on Azure: https://ghactionsazure.azurewebsites.net/
